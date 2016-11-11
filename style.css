@@ -1,0 +1,34 @@
+html, body {
+  margin: 0;
+  height: 100%;
+}
+* {
+  box-sizing: border-box;
+}
+
+/*svg {
+  margin: 5% 0 0 5%;
+
+}*/
+#canvax {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+
+}
+
+#canvax {
+  top: 19.2%;
+  left: 12.7%;
+}
+g.tick line {		
+  stroke: red;
+}
+
+g.tick text {
+  font-size: 18px;
+  fill: purple;
+}
+.axis {
+  width: 490px;
+}
